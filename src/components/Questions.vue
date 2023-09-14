@@ -44,7 +44,7 @@
     }
 
     .option-label {
-        background-color: bisque;
+        background-color:  rgb(163, 163, 221);
         width: 50px;
         height: 50px;
         font-size: 30px;
