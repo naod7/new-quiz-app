@@ -42,6 +42,10 @@
       margin-top: 30px;
       display: flex;
       align-items: center;
+      height: 65px;
+      background: linear-gradient(90deg, #09083d 1.18%, #071130 100%);
+      color: white;
+      padding: 20px;
     }
 
     header h1 {
@@ -54,6 +58,7 @@
       background-color: rgba(128,128,128,0.1);
       padding: 10px;
       border-radius: 5px;
+      color: white;
     }
 
   .options-container {
